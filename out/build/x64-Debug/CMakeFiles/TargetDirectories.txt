@@ -1,3 +1,0 @@
-C:/Users/Odmen/source/repos/ZombiBombi/ZombiBombi/out/build/x64-Debug/CMakeFiles/SchoolGame.dir
-C:/Users/Odmen/source/repos/ZombiBombi/ZombiBombi/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/Odmen/source/repos/ZombiBombi/ZombiBombi/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
